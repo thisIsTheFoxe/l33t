@@ -1,5 +1,9 @@
 # l33t
 
+### A [L33T](https://esolangs.org/wiki/l33t) interpreter and X-compiler from and to [Text](https://esolangs.org/wiki/Text) in JS
+
+---
+
 @ 5mL1, ni(³, l1l pR0jE(7 1 h@D l07Z 0f fUn vvi7# L0L010L0Lo!!1!one!!!1elevenone!111!!!!!1!!!1!!!11!
 
 
